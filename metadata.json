@@ -1,0 +1,6 @@
+{
+  "name": "Train Simulator 2D",
+  "description": "2D train simulator game with realistic diesel & steam physics, upgrades, contracts, and codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
